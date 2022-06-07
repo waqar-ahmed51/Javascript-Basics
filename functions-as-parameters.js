@@ -8,4 +8,4 @@ const addTwo = num => {
     return checkA === checkB ? func(val) : 'inconsistent results';  
   }
   
-  console.log(checkConsistentOutput(addTwo, 10));  
+  console.log(checkConsistentOutput(addTwo, 10));
