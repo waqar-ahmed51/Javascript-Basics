@@ -14,8 +14,6 @@ const monsterFactory = (name, age) => {
   };
 
 
-
-
   // In shortcut the factory function will be - this is known as destructing
   function robotFactory(model, mobile){
     return {
